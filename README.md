@@ -7,7 +7,7 @@
  **Machine Learning** is a project made on Unity 3D, focused on implementing an Artificial Neural Network to train Artificial Intelligences in a video-game situation. <br>
  For this project, I choose to implement my neural network in a custom game that I made. <br>
  This project has been made by **ERBISTI Matéo**, programming student at Isart Digital Paris. <br>
- The project started on **December 1st** and finished on **January 2nd**. <br>
+ The project started on **December 1st 2023** and finished on **January 2nd 2024**. <br>
 
 
 
