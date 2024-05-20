@@ -4,10 +4,10 @@
 
 ## Introduction :
 ---
- **Machine Learning** is a project made on Unity 3D, focused on implementing an Artificial Neural Network to train Artificial Intelligences in a video-game situation. <br>
- For this project, I choose to implement my neural network in a custom game that I made. <br>
- This project has been made by **ERBISTI Matéo**, programming student at Isart Digital Paris. <br>
- The project started on **December 1st 2023** and finished on **January 2nd 2024**. <br>
+ **Machine Learning** is a project made on Unity 3D, focused on implementing an Artificial Neural Network to train Artificial Intelligence in a video-game situation. <br>
+ For this project, I chose to implement my neural network in a custom game that I made. <br>
+ This project has been made by **ERBISTI Matéo**, a programming student at Isart Digital Paris. <br>
+ The project started on **December 1st, 2023** and finished on **January 2nd, 2024**. <br>
 
 
 
@@ -77,7 +77,7 @@ The `AINetworks/NeuralNetwork.txt` already exists and is a trained version of th
   ## Credits :
  ---
 
- During my researches, I used different websites and videos that you can find here: <br>
+ During my research, I used different websites and videos that you can find here: <br>
  
  - Artificial Intelligence For Games - Ian Millington - https://theswissbay.ch/pdf/Gentoomen%20Library/Game%20Development/Programming/Artificial%20Intelligence%20for%20Games.pdf
  - Artificial Neural Networks - Medium - https://medium.com/analytics-vidhya/artificial-neural-networks-part-1-role-of-activation-function-weights-and-bias-b4b485e581b9 <br>
@@ -86,4 +86,4 @@ The `AINetworks/NeuralNetwork.txt` already exists and is a trained version of th
  - Machine Learning for Flappy Bird using Neural Network & Genetic Algorithm - Srdjan Susnic - https://www.youtube.com/watch?v=aeWmdojEJf0&ab_channel=SrdjanSusnic <br>
  https://www.askforgametask.com/tutorial/machine-learning-algorithm-flappy-bird/
  - Genetic Algorithms Explained By Example - Kie Codes - https://www.youtube.com/watch?v=uQj5UNhCPuo&t=582s&ab_channel=KieCodes
- -  Neuroevolution: Crossover and Mutation : The Nature of Code - The Coding Train - https://www.youtube.com/watch?v=kCx2DElEpP8&t=832s&ab_channel=TheCodingTrain
+ -  Neuroevolution: Crossover and Mutation: The Nature of Code - The Coding Train - https://www.youtube.com/watch?v=kCx2DElEpP8&t=832s&ab_channel=TheCodingTrain
